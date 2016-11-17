@@ -3716,10 +3716,25 @@
 	margin: auto;
 	text-align: center;
 	position: relative;
+	margin-right: 5px;
+}
+
+.pdt2 {
+	display: table-cell;
+	width: 280px;
+	margin: auto;
+	text-align: center;
+	margin-right: 5px;
 }
 
 .pdtphoto {
 	border-radius: 100%;
 	height: 280px;
 	width: 280px;
+}
+
+.pdtphoto2 {
+	border-radius: 100%;
+	height: 200px;
+	width: 200px;
 }
