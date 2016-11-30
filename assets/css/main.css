@@ -3725,6 +3725,7 @@
 	margin: auto;
 	text-align: center;
 	margin-right: 5px;
+	position: relative;
 }
 
 .pdtphoto {
@@ -3738,3 +3739,12 @@
 	height: 200px;
 	width: 200px;
 }
+
+h3 {
+	color: skyblue;
+}
+
+h2:hover {
+	color: yellow;
+	font-size: 20px;
+};
